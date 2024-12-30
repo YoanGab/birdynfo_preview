@@ -2,6 +2,8 @@
 
 [Visit BirdyInfo](https://www.birdynfo.com/)
 
+[![Watch the video](https://img.youtube.com/vi/97pS8ig_vrc/0.jpg)](https://youtu.be/97pS8ig_vrc)
+
 ## Overview
 
 BirdyInfo is an advanced AI-driven platform tailored for HR SaaS applications. This project demonstrates my expertise in designing and deploying AI components, leveraging cutting-edge technologies like LLMs, embeddings, and scalable cloud infrastructure.
